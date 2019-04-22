@@ -1,2 +1,2 @@
-require 'post.rb'
+require_relative 'post.rb'
 require 'artist.rb'
